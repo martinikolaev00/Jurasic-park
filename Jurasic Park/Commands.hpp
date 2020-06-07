@@ -1,0 +1,12 @@
+#pragma once
+void Begin();
+void stockfood();
+void menu();
+void removedinasour();
+void checkforcage();
+void help();
+void adddinasour();
+void switchmenu();
+void Input();
+void type();
+void buildcage();
